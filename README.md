@@ -45,7 +45,7 @@ This project provides insights into **sales performance, revenue trends, top-per
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](motorola.PNG)
+![Dashboard Preview](mobilesalesdatadashboard.PNG)
 
 ---
 
