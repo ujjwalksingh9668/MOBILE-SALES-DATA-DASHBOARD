@@ -1,7 +1,7 @@
 # 📊 Mobile Sales Data Dashboard
 
 An interactive **Power BI Dashboard** designed to analyze and visualize **mobile sales data**.  
-This project provides insights into **sales performance, revenue trends, top-performing brands/models, customer ratings, and payment methods**, helping businesses make data-driven decisions.
+This project provides insights into **sales performance, revenue trends, top-performing brands/models, customer ratings, and payment methods**, helping businesses make data-driven decisions...
 
 ---
 
